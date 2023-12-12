@@ -1,1 +1,2 @@
 # python-api-challenge
+I received help from a tutor and worked on the rest via our class asignments - I had trouble with the hover feature, but the code is correct so wasnt sure if it was some other issue.
